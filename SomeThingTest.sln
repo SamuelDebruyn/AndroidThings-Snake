@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomeThingTest", "SomeThingTest\SomeThingTest.csproj", "{915C33C4-40C2-4BE5-B2FE-AE7A599E39EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Android.Things.SenseHAT", "..\Xamarin.Android.Things.SenseHAT\Xamarin.Android.Things.SenseHAT.csproj", "{34333D98-17FA-4A36-81AC-1C75A97A040E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{915C33C4-40C2-4BE5-B2FE-AE7A599E39EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{915C33C4-40C2-4BE5-B2FE-AE7A599E39EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{915C33C4-40C2-4BE5-B2FE-AE7A599E39EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{915C33C4-40C2-4BE5-B2FE-AE7A599E39EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34333D98-17FA-4A36-81AC-1C75A97A040E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34333D98-17FA-4A36-81AC-1C75A97A040E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34333D98-17FA-4A36-81AC-1C75A97A040E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34333D98-17FA-4A36-81AC-1C75A97A040E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
